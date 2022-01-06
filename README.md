@@ -33,7 +33,6 @@
 ![Dashboard](https://user-images.githubusercontent.com/34319735/117542175-efc97780-afed-11eb-8221-592dfc09566c.png)
 
 # 📱 Responsive Application
-![Home-Responsice]()
 ![Responsive-Dashboard](https://user-images.githubusercontent.com/34319735/117591105-3bbd0f00-b109-11eb-8a56-a1032586da6e.png)
 
 # 📚 Layers Structure
