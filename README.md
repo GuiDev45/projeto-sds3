@@ -1,4 +1,5 @@
 # Semana Spring React - SDS 3.0
+[![NPM](https://github.com/GuiDev45/projeto-sds3/blob/master/LICENSE)
 
 ### Event on Nov 1 to 11, 2021 to create a sales dashboard.
 
