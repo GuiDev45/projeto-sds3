@@ -49,7 +49,7 @@ Prerequisites: Java 11
 
 ```
 # Clone repository
-$ git clone https://github.com/GuiDev45/projeto-sds3-1.git
+$ git clone https://github.com/GuiDev45/projeto-sds3/tree/master/backend
 
 # Enter the project back-end folder
 $ cd backend
@@ -63,7 +63,7 @@ Prerequisites: npm or yarn
 
 ```
 # Clone repository
-$ git clone https://github.com/GuiDev45/projeto-sds3-1.git
+$ git clone https://github.com/GuiDev45/projeto-sds3/tree/master/frontend
 
 # Enter the project front-end folder
 $ cd frontend
